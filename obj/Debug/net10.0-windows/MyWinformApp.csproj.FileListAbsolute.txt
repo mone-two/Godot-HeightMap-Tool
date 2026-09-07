@@ -1,0 +1,14 @@
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\bin\Debug\net10.0-windows\MyWinformApp.exe
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\bin\Debug\net10.0-windows\MyWinformApp.deps.json
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\bin\Debug\net10.0-windows\MyWinformApp.runtimeconfig.json
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\bin\Debug\net10.0-windows\MyWinformApp.dll
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\bin\Debug\net10.0-windows\MyWinformApp.pdb
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.AssemblyInfoInputs.cache
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.AssemblyInfo.cs
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.csproj.CoreCompileInputs.cache
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.dll
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\refint\MyWinformApp.dll
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.pdb
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\MyWinformApp.genruntimeconfig.cache
+D:\Users\Funzzy_1\1FzCodes\DeWind\MyWinformApp\obj\Debug\net10.0-windows\ref\MyWinformApp.dll
